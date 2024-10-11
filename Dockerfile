@@ -1,3 +1,3 @@
-From ubuntu
+from ubuntu
 
-RUN apt instal
+RUN apt update && apt install nfs-common
